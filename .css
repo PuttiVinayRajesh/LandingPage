@@ -5,6 +5,12 @@
   box-sizing: border-box;
   font-family: cursive;
 }
+body{
+  background-image: url(12.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 500vh;
+}
 ::selection{
   color: #000;
   background: #fff;
